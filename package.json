@@ -1,0 +1,17 @@
+{
+  "name": "vueexmong_be",
+  "version": "0.0.1",
+  "description": "THis is a backend for a simple app that has a CRUD funtionality using Vue, Express, and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
